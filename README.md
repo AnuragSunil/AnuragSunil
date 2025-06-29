@@ -14,7 +14,7 @@ I build end-to-end systems using **Python, Docker, FastAPI**, and deploy them wi
   Python automations, FastAPI tricks, cloud deployment setups  
 - 📫 How to reach me:  
   [anuragsunil472@gmail.com](mailto:anuragsunil472@gmail.com)  
-- 📄 [My Resume](#) | [LinkedIn Profile](https://linkedin.com/in/anuragsunil)  
+- 📄 [My Resume](https://docs.google.com/document/d/11aioje8yphTPD4-9trNLw2nuLtyA5ikUsL59dmsKSKQ/edit?usp=sharing) | [LinkedIn Profile](https://linkedin.com/in/anuragsunil)  
 - ⚡ Fun fact:  
   I once built a drone that detects humans mid-flight and delivers payloads. True story.
 
